@@ -6,7 +6,7 @@ This is a notebook using Linear regression to predict the finle math grade of Se
 
 ## Usage
 The code is writen so that you can use any combination of integer features/input provided by the dataset.  
-The accuracy will change depending on the input. The code has two test examples, one with 72.5% accuracy and one with 70.8% accuracy.  
+The accuracy will change depending on the input. The code has two test examples, one with 72.8% accuracy and one with 70.8% accuracy.  
 
 
 ## Functionality  
